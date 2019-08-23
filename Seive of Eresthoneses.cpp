@@ -2,11 +2,10 @@
     SUBMITED BY :   Shivang Srivastava
     USERNAME    :   shivang8
 */
-#include<bits/stdc++.h>
-#define fast_io std::ios::sync_with_stdio(false),cin.tie(NULL),cout.tie(NULL)
-#define ll long long int
+#include<iostream>
+#include<vector>
+#include<cstring>	// Contains memset
 #define mm(a,n) memset(a,n,sizeof(a))
-#define modulo 1000000007
 using namespace std;
 
 vector <int> find_prime(int s, int e)
