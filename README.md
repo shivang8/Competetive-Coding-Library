@@ -2,5 +2,5 @@
 
 ## Table of Content
 
-1. *Prime Number
+1. **Prime Number**
 	-	Seive of Eresthoneses 
