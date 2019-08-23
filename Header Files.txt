@@ -1,0 +1,5 @@
+#include <iostream>
+#include <vector>	-	push_back(x)
+#include <queue>	- 	push(x), pop(), front()
+#include <cstring>	- 	memset(x,<value>,sizeof(x)
+#include <climits>	- 	INT_MAX, INT_MIN

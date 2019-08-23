@@ -1,0 +1,5 @@
+1. Prime
+	-	Seive of Eresthoneses (https://www.geeksforgeeks.org/sieve-of-eratosthenes/)
+
+2. Graph Based Algorithms
+	-	BFS	(https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/) & (Cormen 22.2 pg 595)
