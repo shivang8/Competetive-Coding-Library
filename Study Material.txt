@@ -1,5 +1,12 @@
-1. Prime
+1. Maths
 	-	Seive of Eresthoneses (https://www.geeksforgeeks.org/sieve-of-eratosthenes/)
+	-	Large Factorial (https://www.interviewbit.com/problems/large-factorial/)
 
-2. Graph Based Algorithms
-	-	BFS	(https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/) & (Cormen 22.2 pg 595)
+2. Arrays
+	-	Max Sum Contiguous Subarray / Kadane’s Algorithm (https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+
+3. Graph Based Algorithms
+	-	BFS	(https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/ & Cormen 22.2 pg 595)
+	-	DFS ()
+	-	Dijkstra ()
+	-	Prims ()

@@ -3,3 +3,4 @@
 #include <queue>	- 	push(x), pop(), front()
 #include <cstring>	- 	memset(x,<value>,sizeof(x))
 #include <climits>	- 	INT_MAX, INT_MIN
+#include <string>	-	string functions, to_string(<int>), 
