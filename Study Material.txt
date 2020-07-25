@@ -10,3 +10,5 @@
 	-	DFS ()
 	-	Dijkstra ()
 	-	Prims ()
+	-	Lowest Common Ancestor [LCA] (https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/submissions/code/163921916 )
+	- 
